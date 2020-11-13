@@ -1,14 +1,12 @@
 # Developer Guide: How to Build Ethereum Dapps
 
+> A decentralized application (dapp) is an application built on a **decentralized network** that combines a **smart contract** and a **frontend user interface**  - [Introduction to dapps](https://ethereum.org/en/developers/docs/dapps/)
+
 1. Understand Ethereum
 
 2. Understand the dApp stack
 
-> A decentralized application (dapp) is an application built on a **decentralized network** that combines a **smart contract** and a **frontend user interface**  - [Introduction to dapps](https://ethereum.org/en/developers/docs/dapps/)
-
 3. Build dApps with frameworks
-
-> Building a full-fledged dapp requires different pieces of technology. Software frameworks include many of the needed features or provide easy plugin systems to pick the tools you desire.
 
 
 ## Ethereum network
