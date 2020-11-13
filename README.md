@@ -35,6 +35,7 @@ A curated list of Ethereum resources for developers
 
 ### Drizzle
 * [Drizzle](https://github.com/trufflesuite/drizzle) - Drizzle is a collection of libraries to simplify development of your dapps in Plain JavaScript, React and Vue.
+* [Documentation](https://www.trufflesuite.com/docs/drizzle/overview)
 * [Drizzle - Truffle Box](https://www.trufflesuite.com/boxes/drizzle) - This box comes with everything you need to start using smart contracts from a react app with Drizzle. 
 
 ## Mobile dApp Development
