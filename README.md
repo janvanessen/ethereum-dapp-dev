@@ -1,5 +1,5 @@
-# ethereum-dapp-dev
-Developer Guide: How to Build Ethereum Dapps
+# Developer Guide: How to Build Ethereum Dapps
+A curated list of Ethereum resources for developers
 
 ## Introduction to Ethereum
 * [A beginner’s guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
